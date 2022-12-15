@@ -1,0 +1,32 @@
+{
+    "person1": {
+        "Name": "Lyndon",
+        "Age": 25,
+        "Sex": "Male",
+        "Occupation": "Police Officer"
+    },    
+    "person2": {
+        "Name": "Harold",
+        "Age": 27,
+        "Sex": "Male",
+        "Occupation": "Botanist"
+    },    
+    "person3": {
+        "Name": "Evelyn",
+        "Age": 22,
+        "Sex": "Female",
+        "Occupation": "Mechanic"
+    },
+    "person4": {
+        "Name": "Ellie",
+        "Age": 26,
+        "Sex": "Female",
+        "Occupation": "Hairdresser"
+    },
+    "person5": {
+        "Name": "Kimberly",
+        "Age": 24,
+        "Sex": "Female",
+        "Occupation": "Actress"
+    }
+}
